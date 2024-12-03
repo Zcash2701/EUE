@@ -12,10 +12,10 @@ Depending on the selected processing method:
 3) Divides objects into areas: Each area is on a separate sheet, or in a separate Excel file, depending on the task.
 
 Libraries used:
-import re
-import copy
-import tkinter 
-import openpyxl 
+1) import re
+2) import copy
+3) import tkinter 
+4) import openpyxl 
 
 
 <img src="https://github.com/Zcash2701/EUE/blob/main/Screenshot_2.jpg" alt="Upload_Editor">
