@@ -20,5 +20,6 @@ import openpyxl
 
 
 
-https://img.shields.io/badge/Py-Python-blue?logo=python
+![Static Badge](https://img.shields.io/badge/Py-Python-blue?logo=python)
+
 
