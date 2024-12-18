@@ -432,3 +432,5 @@ if __name__ == '__main__':
     rdy_file_info = cl.MyLabel(root, 'rdy_file_info', '', 175, 250)
 
     root.mainloop()
+
+    print('datuti')
